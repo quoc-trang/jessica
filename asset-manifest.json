@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/jessica/static/js/main.52a51ba0.js",
+    "static/media/background.mp4": "/jessica/static/media/background.9d01c8b0d91cec00a23e.mp4",
+    "index.html": "/jessica/index.html",
+    "main.52a51ba0.js.map": "/jessica/static/js/main.52a51ba0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.52a51ba0.js"
+  ]
+}
